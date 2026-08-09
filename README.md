@@ -1,6 +1,6 @@
 An excellent WinForms control from codeproject.com.
 
-The website has gone.
+The website is gone.
 
 Archive it here.
 
